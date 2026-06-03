@@ -1,4 +1,4 @@
-# ☀️ H.E.L.I.O.S.
+# ☀️ H.E.L.I.O.S. (High-accuracy Electronics & Linear Input-Output Simulator)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-F6D049?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
