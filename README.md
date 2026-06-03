@@ -4,6 +4,8 @@
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-F6D049?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Release](https://img.shields.io/badge/Release-v0.9.0_Gold-FFD700?style=flat-square&logo=sun&logoColor=000000)](.)
 
+> **H.E.L.I.O.S.** está em *Gold Release* — projeto funcional e validado, em evolução para um ecossistema de engenharia assistida por IA.
+
 Plataforma de engenharia para dimensionamento, validação e documentação automatizada de fontes lineares reguladas.
 
 Transforma requisitos elétricos em soluções completas: seleciona componentes comerciais reais, valida parâmetros físicos e gera memoriais de cálculo auditáveis — tudo a partir de uma arquitetura desacoplada e reproduzível.
