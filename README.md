@@ -36,6 +36,20 @@ Transforma requisitos elétricos em soluções completas: seleciona componentes 
 
 ---
 
+## 🖥️ Interface
+
+![Dimensionamento com Memorial de Cálculo e Curvas de Schade](docs/screenshots/comcalculo.png)
+
+*Dimensionamento completo com memorial de cálculo e visualização interativa das Curvas de Schade.*
+
+![Tela Inicial](docs/screenshots/Telainicio.png)
+
+## 🌐 API REST
+
+![Swagger UI — H.E.L.I.O.S. API](docs/screenshots/api.png)
+
+---
+
 ## 📂 Estrutura do Projeto
 
 ```text
@@ -49,7 +63,10 @@ HELIOS/
 │   ├── ui/              # Interface gráfica CustomTkinter
 │   └── api/             # Endpoints FastAPI
 │
-├── docs/                # Imagens, diagramas e memoriais
+├── docs/
+│   ├── screenshots/     # Capturas de tela da GUI e API
+│   ├── diagrams/        # Diagramas de arquitetura
+│   └── reports/         # Memoriais de cálculo de referência
 ├── tests/               # Scripts de validação e estresse
 ├── requirements.txt
 ├── LICENSE
