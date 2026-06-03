@@ -64,7 +64,7 @@ python main.py
 3. Executar o Servidor da API REST:
 
 Bash
-uvicorn src.api.api:app --reload
+uvicorn api:app --reload
 🛣️ Roadmap de Evolução
 V1 — Engenharia Profissional (Foco Atual)
 [x] Motor de Cálculo e Interface Desktop
