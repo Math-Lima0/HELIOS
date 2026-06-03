@@ -3,15 +3,6 @@ interface.py — H.E.L.I.O.S.
 High-accuracy Electronics & Linear Input-Output Simulator
 Pantheon Systems
 
-Interface do Santuário Digital:
-  · Fundo espacial cósmico #0A0E17
-  · Azul técnico #2F9EEF + Âmbar #FFB846
-  · Glassmorphism nos cards de saída
-  · Alertas por aura âmbar (sem vermelho agressivo)
-  · Astrolábio de Engenharia (Curvas de Schade)
-  · Tema dark/light alternável
-  · Salvamento automático + explícito (.helios)
-  · Dashboard de projetos recentes
 """
 
 import customtkinter as ctk
@@ -1144,7 +1135,7 @@ class App(ctk.CTk):
         
         self._rebuild() # Aqui ele constrói o card S1 e seta como True sem querer
         
-        self._modificado = False # <--- MOVA PARA CÁ (Última linha) para limpar a flag
+        self._modificado = False # 
 
     def _mostrar_dashboard(self):
         self.withdraw() # Garante que a tela de trás fique invisível
