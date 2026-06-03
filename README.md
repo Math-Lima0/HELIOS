@@ -1,7 +1,8 @@
 # ☀️ H.E.L.I.O.S.
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Python 3.13](https://img.shields.io/badge/Python-3.13-F6D049?logo=python&logoColor=3776AB)](https://www.python.org/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python 3.13](https://img.shields.io/badge/Python-3.13-F6D049?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![Release](https://img.shields.io/badge/Release-v0.9.0_Gold-FFD700?style=flat-square&logo=sun&logoColor=000000)](.)
 
 Plataforma de engenharia para dimensionamento, validação e documentação automatizada de fontes lineares reguladas.
 
