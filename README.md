@@ -38,11 +38,11 @@ Transforma requisitos elétricos em soluções completas: seleciona componentes 
 
 ## 🖥️ Interface
 
+![Tela Inicial](docs/screenshots/Telainicio.png)
+
 ![Dimensionamento com Memorial de Cálculo e Curvas de Schade](docs/screenshots/comcalculo.png)
 
 *Dimensionamento completo com memorial de cálculo e visualização interativa das Curvas de Schade.*
-
-![Tela Inicial](docs/screenshots/Telainicio.png)
 
 ## 🌐 API REST
 
