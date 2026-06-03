@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "pantheon_module": "H.E.L.I.O.S.",
+    "version": "1.0",
+    "project_name": "Novo Projeto"
+  },
+  "data": {
+    "Vp": 110,
+    "Vond": 3.0,
+    "Vd": 0.7,
+    "saidas": [
+      {
+        "tipo": "fixa",
+        "Vout": 12.0,
+        "IL": 1.0,
+        "R2": 10000.0
+      },
+      {
+        "tipo": "fixa",
+        "Vout": 5.0,
+        "IL": 1.0,
+        "R2": 10000.0
+      }
+    ],
+    "Vout_max": 12.0,
+    "IL_total": 2.0,
+    "Vinmin_tr": 15.0,
+    "Vinmedia_tr": 16.5,
+    "Vsmax": 19.4,
+    "Vsef": 13.71787155501902,
+    "Vinmedia": 16.5,
+    "Vinmax": 18.0,
+    "Vinmin": 15.0,
+    "reguladores_ok": true,
+    "C_calc_uF": 5555.555555555557,
+    "Vcap_min": 27.159999999999997,
+    "C_com": 5600,
+    "V_cap_com": 50,
+    "Ifav": 1.0,
+    "Vrev_d": 19.4,
+    "Refetiva": 8.25,
+    "Rs": 0.0825,
+    "x_param": 69.66795868600724,
+    "Rs_nRL_pct": 0.5,
+    "curva_fig3": 3.417644324833126,
+    "curva_fig4": 13.45347967371056,
+    "IFrms": 3.417644324833126,
+    "IFrm": 13.45347967371056,
+    "Ifav_min": 2.6666666666666665,
+    "IFrms_min": 4.556859099777501,
+    "VRRM": 48.5,
+    "RD": 0.16666666666666666,
+    "IFsm": 46.65330661322645,
+    "tau_ms": 100.8,
+    "diodo": {
+      "modelo": "SK5",
+      "Ifav": 5.0,
+      "IFrms": 6.0,
+      "VRRM": 1000,
+      "IFsm": 150,
+      "Vf": 1.0,
+      "descricao": "5A/1000V"
+    },
+    "Is": 4.833278955546446,
+    "KT": 8.018736693868066,
+    "Ip": 0.6027481809251148,
+    "Fus_s": 6.3,
+    "Fus_p": 0.8,
+    "Ss": 66.30229990176264,
+    "TR_cod": "T15-5A",
+    "TR_Vs": 15,
+    "TR_Is": 5.0,
+    "TR_Ss": 80,
+    "TR_encontrado": true,
+    "res_saidas": [
+      {
+        "indice": 1,
+        "tipo": "fixa",
+        "Vout_desejado": 12.0,
+        "IL": 1.0,
+        "modelo": "LM7812",
+        "exato": true,
+        "Vout_real": 12,
+        "Vreg": 6.0,
+        "Pd": 6.0,
+        "alerta_dissipador": true,
+        "alerta_corrente": false,
+        "R1_calc": null,
+        "R1_com": null,
+        "R2": null,
+        "Vin_min": 14.5,
+        "Vin_max": 35,
+        "sugestao_alt": null
+      },
+      {
+        "indice": 2,
+        "tipo": "fixa",
+        "Vout_desejado": 5.0,
+        "IL": 1.0,
+        "modelo": "LM7805",
+        "exato": true,
+        "Vout_real": 5,
+        "Vreg": 13.0,
+        "Pd": 13.0,
+        "alerta_dissipador": true,
+        "alerta_corrente": false,
+        "R1_calc": null,
+        "R1_com": null,
+        "R2": null,
+        "Vin_min": 7.5,
+        "Vin_max": 35,
+        "sugestao_alt": null
+      }
+    ],
+    "alertas": [
+      "Potência dissipada total nos reguladores: 19.0W — considerar dissipadores adequados e ventilação do gabinete."
+    ]
+  }
+}
